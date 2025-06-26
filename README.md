@@ -1,5 +1,32 @@
 # my-first-repo
 
-## github의 문서는 Markdown을 기반으로 작성합니다.
+## Prerequisites
 
-[Go to google](https://www.google.com/)
+- Python^3.12
+- FastAPI==1.0.0
+
+## How to Start
+
+```shell
+$ git clone {repo addr}
+$ cd {repo name}
+$ pip install
+$ python server.py
+```
+
+## Installation
+
+Use pip!!!!
+
+## Features
+
+- 점심메뉴 골라주기
+- 저녁메뉴 골라주기
+- 야식메뉴 골라주기
+- 사다리타기
+
+## Run Tests
+
+## Credit
+
+- yjjang( @yjjang06 )
